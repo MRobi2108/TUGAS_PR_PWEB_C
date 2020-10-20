@@ -1,2 +1,2 @@
-# TUGAS_PR_PWEB_C
-SEMUA TUGAS/MATERI PWEB C
+# web-project-c
+Repository for web project c
